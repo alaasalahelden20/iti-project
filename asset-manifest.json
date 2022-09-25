@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/iti-project/static/css/main.64e535d0.css",
+    "main.js": "/iti-project/static/js/main.b702a761.js",
+    "index.html": "/iti-project/index.html",
+    "main.64e535d0.css.map": "/iti-project/static/css/main.64e535d0.css.map",
+    "main.b702a761.js.map": "/iti-project/static/js/main.b702a761.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64e535d0.css",
+    "static/js/main.b702a761.js"
+  ]
+}
